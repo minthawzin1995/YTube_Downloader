@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/minthawzin1995/YTube_Downloader.svg?branch=master)](https://travis-ci.org/minthawzin1995/YTube_Downloader)
 # YouTube Downloader
 
-Simple Python application to download Youtube Videos. Implemented using Python,PyTube and Travis CI for integrated testing. The user can choose their desired outputs such as audio only, etc. in the command line interface
+Simple Python application to download Youtube Videos. Implemented using Python,PyTube and Travis CI for integrated testing. The user can choose their desired outputs such as audio only, etc. in the command line interface. Audio only files will be saved in the directory of ./DownloadedAudios, while the video files will be saved in the directory of ./DownloadedVideos.
 
 ## Installation
 1. Make sure to install the requirements.txt to get all the necessary packages for the project.
