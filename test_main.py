@@ -1,10 +1,10 @@
-from youtubeDownloader import YoutubeDownloader
+from youtubeDownloader import youtubeDownloader
 import unittest
 
 class Test(unittest.TestCase):
     def testing(self):
-        a = YoutubeDownloader.askLink()
-        self.assertNotEqual(a, "hi")
+        a = youtubeDownloader.askYoutubeLink()
+        self.assertNotEqual(a, "Youtube Link needed")
 
 if __name__ == '__main__':
     unittest.main()

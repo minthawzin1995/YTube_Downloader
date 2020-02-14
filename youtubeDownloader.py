@@ -1,9 +1,12 @@
 import pytube
 
-class YoutubeDownloader():
-    def askLink():
+class youtubeDownloader():
+    def askYoutubeLink():
         link = input("Youtube Link: ")
-        return link
+        if("youtube" in link):
+            return link
+        else:
+            return "Youtube Link needed"
 
 if __name__ == '__main__':
-    print(YoutubeDownloader.askLink())
+    print(youtubeDownloader.askYoutubeLink())
