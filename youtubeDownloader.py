@@ -27,10 +27,28 @@ class youtubeDownloader():
         downloadVideo = streamList[0]
         return downloadVideo
 
-if __name__ == '__main__':
-    link = youtubeDownloader.askYoutubeLink()
-    streamList = youtubeDownloader.getListofStream(link)
-    video = youtubeDownloader.getHighRes(streamList)
+    def getAudioOnly(link):
+        video = pytube.YouTube(link)
+        audioOnly = video.streams.filter(only_audio=True).all()
+        return audioOnly[0]
 
-    # Download the video into the file path
-    video.download("./DownloadedVideos/")
+if __name__ == '__main__':
+    # Video
+    # ask for video or audio from user
+    app = True;
+    while (app):
+        link = youtubeDownloader.askYoutubeLink()
+        type = input("Please enter v for video, a for audio only, e for exit\n")
+        if (type == 'v'):
+            streamList = youtubeDownloader.getListofStream(link)
+            video = youtubeDownloader.getHighRes(streamList)
+            video.download("./DownloadedVideos/")
+        elif (type == 'a'):
+            audio = youtubeDownloader.getAudioOnly(link)
+            audio.download("./DownloadedAudios/")
+        elif (type == 'e'):
+            break;
+        else:
+            continue;
+
+    print("Done!")
