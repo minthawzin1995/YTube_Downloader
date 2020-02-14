@@ -16,16 +16,10 @@ class youtubeDownloader():
         percentage_of_completion = bytes_downloaded / total_size * 100
         print(percentage_of_completion)
 
-    def getListofStream(link):
-        # parse into the pytube
+    def getHighRes(link):
         ytube_video = pytube.YouTube(link)
-        getStreams = ytube_video.streams.all()
-        return getStreams
-
-    def getHighRes(streamList):
-        # streams will return a list -> get_by_res first item
-        downloadVideo = streamList[0]
-        return downloadVideo
+        highResVideo = ytube_video.streams.filter().order_by('resolution').desc().last()
+        return highResVideo
 
     def getAudioOnly(link):
         video = pytube.YouTube(link)
@@ -38,12 +32,15 @@ if __name__ == '__main__':
         link = youtubeDownloader.askYoutubeLink()
         type = input("Please enter v for video, a for audio only, e for exit\n")
         if (type == 'v'):
-            streamList = youtubeDownloader.getListofStream(link)
             video = youtubeDownloader.getHighRes(streamList)
             video.download("./DownloadedVideos/")
+            print("Done!")
+
         elif (type == 'a'):
             audio = youtubeDownloader.getAudioOnly(link)
             audio.download("./DownloadedAudios/")
+            print("Done!")
+
         elif (type == 'e'):
             break;
         else:
