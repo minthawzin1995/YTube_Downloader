@@ -33,9 +33,7 @@ class youtubeDownloader():
         return audioOnly[0]
 
 if __name__ == '__main__':
-    # Video
-    # ask for video or audio from user
-    app = True;
+    app = True
     while (app):
         link = youtubeDownloader.askYoutubeLink()
         type = input("Please enter v for video, a for audio only, e for exit\n")
