@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/minthawzin1995/YTube_Downloader.svg?branch=master)](https://travis-ci.org/minthawzin1995/YTube_Downloader)
-# YouTube_Downloader
+# YouTube Downloader
 
 Simple Python application to download Youtube Videos. Implemented using Python and Travis CI for integrated testing.
 
