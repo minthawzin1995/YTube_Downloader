@@ -7,16 +7,16 @@ class Test(unittest.TestCase):
 
     def test_getListStream(self):
         # test link
-        highRes = youtubeDownloader.getHighRes(testLink)
+        highRes = youtubeDownloader.getHighRes(self.testLink)
         self.assertNotEqual(highRes, [])
 
     def test_getAudioOnly(self):
 
         # test Link
-        audio = youtubeDownloader.getAudioOnly(testLink)
+        audio = youtubeDownloader.getAudioOnly(self.testLink)
         self.assertNotEqual(audio, [])
 
-    
+
 
 if __name__ == '__main__':
     unittest.main()
