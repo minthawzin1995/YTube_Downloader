@@ -57,7 +57,11 @@ pip install git+git@github.com:nficano/pytube.git
 ```
 
 ## Running the application
-1. Run the youtubeDownloader.py
+1. Run the youtubeDownloader.py using the followig command
+```
+py youtubeDownloader.py
+```
 2. Copy-paste the URL of the youtube Video in the user input.
-3. Wait for the program to end.
+3. Choose the desired output. V for video, A for audio only and E for exit
+4. The end notification can be seen with a "Done!" message at the end of the command line.
 
