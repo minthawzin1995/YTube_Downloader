@@ -1,5 +1,5 @@
 ('C:\\Users\\Min '
- 'Thaw\\desktop\\YTubeDownloader\\build\\youtubeDownloader\\PYZ-00.pyz',
+ 'Thaw\\Desktop\\YTubeDownloader\\build\\youtubeDownloader\\PYZ-00.pyz',
  [('multiprocessing.popen_fork',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',

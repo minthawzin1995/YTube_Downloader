@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['youtubeDownloader.py'],
-             pathex=['C:\\Users\\Min Thaw\\desktop\\YTubeDownloader'],
+             pathex=['C:\\Users\\Min Thaw\\Desktop\\YTubeDownloader'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False )
+          console=True )
