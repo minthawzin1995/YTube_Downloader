@@ -16,7 +16,5 @@ class Test(unittest.TestCase):
         audio = youtubeDownloader.getAudioOnly(self.testLink)
         self.assertNotEqual(audio, [])
 
-
-
 if __name__ == '__main__':
     unittest.main()

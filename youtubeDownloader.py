@@ -18,7 +18,7 @@ class youtubeDownloader():
 
     def getHighRes(link):
         ytube_video = pytube.YouTube(link)
-        highResVideo = ytube_video.streams.filter().order_by('resolution').desc().last()
+        highResVideo = ytube_video.streams.filter(progressive=True).order_by('resolution').desc().first()
         return highResVideo
 
     def getAudioOnly(link):
@@ -32,7 +32,7 @@ if __name__ == '__main__':
         link = youtubeDownloader.askYoutubeLink()
         type = input("Please enter v for video, a for audio only, e for exit\n")
         if (type == 'v'):
-            video = youtubeDownloader.getHighRes(streamList)
+            video = youtubeDownloader.getHighRes(link)
             video.download("./DownloadedVideos/")
             print("Done!")
 
