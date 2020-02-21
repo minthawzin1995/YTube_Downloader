@@ -19,14 +19,9 @@ class youtubeDownloader():
         else:
             return "Youtube Link needed"
 
-    def get_terminal_size():
-        """Return the terminal size in rows and columns."""
-        rows, columns = os.popen('stty size', 'r').read().split()
-        return int(rows), int(columns)
 
     def display_progress_bar(bytes_received, filesize, ch='#', scale=0.55):
-        _, columns = youtubeDownloader.get_terminal_size()
-        max_width = int(columns * scale)
+        max_width = int(100 * scale)
 
         filled = int(round(max_width * bytes_received / float(filesize)))
         remaining = max_width - filled
@@ -62,11 +57,13 @@ if __name__ == '__main__':
         if (type == 'v'):
             video = youtubeDownloader.getHighRes(link)
             video.download("./DownloadedVideos/")
+            print("")
             print("Done!")
 
         elif (type == 'a'):
             audio = youtubeDownloader.getAudioOnly(link)
             audio.download("./DownloadedAudios/")
+            print("")
             print("Done!")
 
         elif (type == 'e'):

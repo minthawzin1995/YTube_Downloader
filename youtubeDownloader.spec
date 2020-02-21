@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['youtubeDownloader.py'],
-             pathex=['C:\\Users\\Min Thaw\\Desktop\\YTubeDownloader'],
+             pathex=['C:\\Users\\Min Thaw\\desktop\\Self-projects\\YTubeDownloader'],
              binaries=[],
              datas=[],
              hiddenimports=[],

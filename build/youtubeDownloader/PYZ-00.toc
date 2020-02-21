@@ -1,148 +1,28 @@
 ('C:\\Users\\Min '
- 'Thaw\\Desktop\\YTubeDownloader\\build\\youtubeDownloader\\PYZ-00.pyz',
- [('multiprocessing.popen_fork',
+ 'Thaw\\desktop\\Self-projects\\YTubeDownloader\\build\\youtubeDownloader\\PYZ-00.pyz',
+ [('pkg_resources',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('multiprocessing.connection',
+  ('pkg_resources._vendor.packaging.__about__',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
-  ('multiprocessing.resource_sharer',
+  ('pkg_resources._vendor',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
-  ('multiprocessing.process',
+  ('pkg_resources._vendor.packaging._compat',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
-  ('threading',
+  ('pkg_resources._vendor.pyparsing',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
    'PYMODULE'),
-  ('_threading_local',
+  ('uuid',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
-   'PYMODULE'),
-  ('contextlib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
-   'PYMODULE'),
-  ('selectors',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
-   'PYMODULE'),
-  ('xmlrpc.client',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
-   'PYMODULE'),
-  ('xmlrpc',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
-   'PYMODULE'),
-  ('gzip',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
-   'PYMODULE'),
-  ('argparse',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
-   'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('copy',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
-   'PYMODULE'),
-  ('gettext',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
-   'PYMODULE'),
-  ('shutil',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
-   'PYMODULE'),
-  ('zipfile',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
-   'PYMODULE'),
-  ('py_compile',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
-   'PYMODULE'),
-  ('ntpath',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ntpath.py',
-   'PYMODULE'),
-  ('string',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
-   'PYMODULE'),
-  ('genericpath',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('importlib.machinery',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('importlib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
-   'PYMODULE'),
-  ('importlib._bootstrap',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
-   'PYMODULE'),
-  ('importlib._bootstrap_external',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
-   'PYMODULE'),
-  ('importlib.metadata',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
-   'PYMODULE'),
-  ('importlib.abc',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
-   'PYMODULE'),
-  ('configparser',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
-   'PYMODULE'),
-  ('pathlib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
-   'PYMODULE'),
-  ('email',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
-   'PYMODULE'),
-  ('email.parser',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
-   'PYMODULE'),
-  ('email._policybase',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
-   'PYMODULE'),
-  ('email.utils',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
-   'PYMODULE'),
-  ('email._parseaddr',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
-   'PYMODULE'),
-  ('calendar',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
-   'PYMODULE'),
-  ('random',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\uuid.py',
    'PYMODULE'),
   ('hashlib',
    'c:\\users\\min '
@@ -156,9 +36,13 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
    'PYMODULE'),
-  ('pprint',
+  ('argparse',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
    'PYMODULE'),
   ('doctest',
    'c:\\users\\min '
@@ -172,6 +56,10 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
    'PYMODULE'),
+  ('signal',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
   ('unittest.main',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
@@ -184,6 +72,10 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
    'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'PYMODULE'),
   ('unittest.suite',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
@@ -191,6 +83,10 @@
   ('unittest.case',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
    'PYMODULE'),
   ('unittest.async_case',
    'c:\\users\\min '
@@ -208,6 +104,10 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
    'PYMODULE'),
+  ('selectors',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
   ('asyncio.windows_events',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
@@ -223,6 +123,18 @@
   ('ssl',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
    'PYMODULE'),
   ('asyncio.proactor_events',
    'c:\\users\\min '
@@ -300,261 +212,69 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
    'PYMODULE'),
+  ('bisect',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
   ('multiprocessing.resource_tracker',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
    'PYMODULE'),
-  ('concurrent.futures._base',
+  ('multiprocessing.spawn',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
-   'PYMODULE'),
-  ('concurrent',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.base_tasks',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
-   'PYMODULE'),
-  ('asyncio.locks',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
-   'PYMODULE'),
-  ('asyncio.sslproto',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
-   'PYMODULE'),
-  ('asyncio.transports',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('asyncio.protocols',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
-   'PYMODULE'),
-  ('asyncio.futures',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
-   'PYMODULE'),
-  ('asyncio.coroutines',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
-   'PYMODULE'),
-  ('asyncio.base_futures',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
-   'PYMODULE'),
-  ('asyncio.exceptions',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
-   'PYMODULE'),
-  ('asyncio.format_helpers',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
-   'PYMODULE'),
-  ('asyncio.constants',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
-   'PYMODULE'),
-  ('unittest.result',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
-   'PYMODULE'),
-  ('unittest.util',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
-   'PYMODULE'),
-  ('pdb',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
-   'PYMODULE'),
-  ('getopt',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
-   'PYMODULE'),
-  ('pydoc',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
-   'PYMODULE'),
-  ('webbrowser',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
-   'PYMODULE'),
-  ('email.message',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
-   'PYMODULE'),
-  ('email.policy',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
-   'PYMODULE'),
-  ('email.contentmanager',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
-   'PYMODULE'),
-  ('email.quoprimime',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
-   'PYMODULE'),
-  ('email.headerregistry',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
-   'PYMODULE'),
-  ('email.iterators',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
-   'PYMODULE'),
-  ('email.generator',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
-   'PYMODULE'),
-  ('email._encoded_words',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
-   'PYMODULE'),
-  ('quopri',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
-   'PYMODULE'),
-  ('uu',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
-   'PYMODULE'),
-  ('optparse',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
-   'PYMODULE'),
-  ('http.server',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
-   'PYMODULE'),
-  ('http',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
-   'PYMODULE'),
-  ('socketserver',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
-   'PYMODULE'),
-  ('mimetypes',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
-   'PYMODULE'),
-  ('html',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
-   'PYMODULE'),
-  ('html.entities',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
-   'PYMODULE'),
-  ('pydoc_data.topics',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
-   'PYMODULE'),
-  ('pydoc_data',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
-   'PYMODULE'),
-  ('tty',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
-   'PYMODULE'),
-  ('platform',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
-   'PYMODULE'),
-  ('plistlib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
-   'PYMODULE'),
-  ('pkgutil',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
-   'PYMODULE'),
-  ('zipimport',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
    'PYMODULE'),
   ('runpy',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
    'PYMODULE'),
-  ('shlex',
+  ('importlib.util',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
    'PYMODULE'),
-  ('glob',
+  ('importlib._bootstrap_external',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
    'PYMODULE'),
-  ('code',
+  ('importlib.metadata',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
    'PYMODULE'),
-  ('codeop',
+  ('configparser',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
    'PYMODULE'),
-  ('dis',
+  ('pathlib',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
    'PYMODULE'),
-  ('opcode',
+  ('urllib.parse',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
    'PYMODULE'),
-  ('bdb',
+  ('urllib',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
    'PYMODULE'),
-  ('cmd',
+  ('email',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
-   'PYMODULE'),
-  ('inspect',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
-   'PYMODULE'),
-  ('ast',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
-   'PYMODULE'),
-  ('token',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
-   'PYMODULE'),
-  ('difflib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
-   'PYMODULE'),
-  ('__future__',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
-   'PYMODULE'),
-  ('_compat_pickle',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
-   'PYMODULE'),
-  ('bisect',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
-   'PYMODULE'),
-  ('email.feedparser',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
    'PYMODULE'),
   ('email._header_value_parser',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
    'PYMODULE'),
-  ('urllib',
+  ('email.utils',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
   ('email.header',
    'c:\\users\\min '
@@ -564,6 +284,10 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
    'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
   ('email.charset',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
@@ -571,6 +295,10 @@
   ('email.encoders',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
    'PYMODULE'),
   ('email.errors',
    'c:\\users\\min '
@@ -584,113 +312,37 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tokenize.py',
    'PYMODULE'),
-  ('posixpath',
+  ('token',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\posixpath.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
    'PYMODULE'),
-  ('importlib.util',
+  ('importlib._bootstrap',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
-  ('tarfile',
+  ('importlib.abc',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
    'PYMODULE'),
-  ('lzma',
+  ('importlib',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
    'PYMODULE'),
-  ('bz2',
+  ('multiprocessing.process',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
    'PYMODULE'),
-  ('fnmatch',
+  ('multiprocessing.util',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
    'PYMODULE'),
-  ('stat',
+  ('multiprocessing.forkserver',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\stat.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
-  ('_compression',
+  ('test.support',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
-   'PYMODULE'),
-  ('xml.parsers.expat',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
-   'PYMODULE'),
-  ('xml.parsers',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
-   'PYMODULE'),
-  ('xml',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.expatreader',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
-   'PYMODULE'),
-  ('xml.sax.saxutils',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('getpass',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
-   'PYMODULE'),
-  ('nturl2path',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
-   'PYMODULE'),
-  ('ftplib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
-   'PYMODULE'),
-  ('netrc',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
-   'PYMODULE'),
-  ('http.cookiejar',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
-   'PYMODULE'),
-  ('urllib.response',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
-   'PYMODULE'),
-  ('urllib.error',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('xml.sax',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.handler',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
-   'PYMODULE'),
-  ('xml.sax._exceptions',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
-   'PYMODULE'),
-  ('xml.sax.xmlreader',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('http.client',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\__init__.py',
    'PYMODULE'),
   ('decimal',
    'c:\\users\\min '
@@ -703,98 +355,6 @@
   ('numbers',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
-   'PYMODULE'),
-  ('datetime',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
-   'PYMODULE'),
-  ('_strptime',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
-   'PYMODULE'),
-  ('base64',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
-   'PYMODULE'),
-  ('hmac',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
-   'PYMODULE'),
-  ('multiprocessing.context',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_forkserver',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_posix',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
-   'PYMODULE'),
-  ('multiprocessing.forkserver',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.sharedctypes',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
-   'PYMODULE'),
-  ('ctypes',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
-   'PYMODULE'),
-  ('multiprocessing.pool',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy.connection',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
-   'PYMODULE'),
-  ('multiprocessing.managers',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
-   'PYMODULE'),
-  ('multiprocessing.shared_memory',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
-   'PYMODULE'),
-  ('secrets',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
-   'PYMODULE'),
-  ('multiprocessing.reduction',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
-   'PYMODULE'),
-  ('tempfile',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
-   'PYMODULE'),
-  ('struct',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
-   'PYMODULE'),
-  ('socket',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
-   'PYMODULE'),
-  ('multiprocessing.util',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
-   'PYMODULE'),
-  ('test.support',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\__init__.py',
    'PYMODULE'),
   ('distutils.spawn',
    'c:\\users\\min '
@@ -904,6 +464,10 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\__init__.py',
    'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
   ('distutils.dep_util',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
@@ -924,6 +488,86 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
    'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
   ('tkinter',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\__init__.py',
@@ -931,6 +575,266 @@
   ('tkinter.constants',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('test.support.testresult',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\testresult.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('nntplib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\nntplib.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('test',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
    'PYMODULE'),
   ('ctypes.util',
    'c:\\users\\min '
@@ -956,81 +860,373 @@
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
-  ('ctypes.wintypes',
+  ('ctypes',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\wintypes.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
    'PYMODULE'),
-  ('test.support.testresult',
+  ('ctypes._endian',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\testresult.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
-  ('xml.etree.ElementTree',
+  ('socket',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementTree.py',
-   'PYMODULE'),
-  ('xml.etree.cElementTree',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\cElementTree.py',
-   'PYMODULE'),
-  ('xml.etree.ElementInclude',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementInclude.py',
-   'PYMODULE'),
-  ('xml.etree.ElementPath',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementPath.py',
-   'PYMODULE'),
-  ('xml.etree',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\__init__.py',
-   'PYMODULE'),
-  ('sysconfig',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
-   'PYMODULE'),
-  ('nntplib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\nntplib.py',
-   'PYMODULE'),
-  ('logging.handlers',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\logging\\handlers.py',
-   'PYMODULE'),
-  ('smtplib',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\smtplib.py',
-   'PYMODULE'),
-  ('test',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\test\\__init__.py',
-   'PYMODULE'),
-  ('signal',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_win32',
-   'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
    'PYMODULE'),
   ('subprocess',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
    'PYMODULE'),
-  ('multiprocessing.spawn',
+  ('shutil',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
    'PYMODULE'),
-  ('multiprocessing',
+  ('tarfile',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\imp.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
    'PYMODULE'),
   ('stringprep',
    'c:\\users\\min '
    'thaw\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('tqdm',
    'c:\\users\\min '
-   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\__init__.py',
+   'PYMODULE'),
+  ('tqdm.notebook',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\notebook.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\cgi.py',
+   'PYMODULE'),
+  ('tqdm.utils',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\utils.py',
+   'PYMODULE'),
+  ('colorama',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('tqdm._version',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\_version.py',
+   'PYMODULE'),
+  ('tqdm._monitor',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\_monitor.py',
+   'PYMODULE'),
+  ('tqdm.cli',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\cli.py',
+   'PYMODULE'),
+  ('tqdm._tqdm_pandas',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\_tqdm_pandas.py',
+   'PYMODULE'),
+  ('tqdm.gui',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\gui.py',
+   'PYMODULE'),
+  ('tqdm.std',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\tqdm\\std.py',
+   'PYMODULE'),
+  ('progressbar',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\__init__.py',
+   'PYMODULE'),
+  ('progressbar.__about__',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\__about__.py',
+   'PYMODULE'),
+  ('progressbar.shortcuts',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\shortcuts.py',
+   'PYMODULE'),
+  ('progressbar.bar',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\bar.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('python_utils.converters',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\python_utils\\converters.py',
+   'PYMODULE'),
+  ('python_utils',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\python_utils\\__init__.py',
+   'PYMODULE'),
+  ('timeit',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\timeit.py',
+   'PYMODULE'),
+  ('progressbar.widgets',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\widgets.py',
+   'PYMODULE'),
+  ('progressbar.base',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\base.py',
+   'PYMODULE'),
+  ('progressbar.utils',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\progressbar\\utils.py',
+   'PYMODULE'),
+  ('python_utils.terminal',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\python_utils\\terminal.py',
+   'PYMODULE'),
+  ('python_utils.time',
+   'C:\\Users\\Min '
+   'Thaw\\AppData\\Roaming\\Python\\Python38\\site-packages\\python_utils\\time.py',
+   'PYMODULE'),
+  ('progress.bar',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\progress\\bar.py',
+   'PYMODULE'),
+  ('progress',
+   'c:\\users\\min '
+   'thaw\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\progress\\__init__.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\min '
