@@ -57,7 +57,7 @@ pip install git+git@github.com:nficano/pytube.git
 ```
 
 ## Running the application
-1. Run the youtubeDownloader.py using the followig command
+1. Run the youtubeDownloader.py using the following command
 ```
 py youtubeDownloader.py
 ```
@@ -65,3 +65,14 @@ py youtubeDownloader.py
 3. Choose the desired output. V for video, A for audio only and E for exit
 4. The end notification can be seen with a "Done!" message at the end of the command line.
 
+## Converting to .exe file
+
+1. Install pyinstaller package using the following command.
+```
+pip install pyinstaller
+```
+2. Go to the working .py directory and run the following line.
+```
+pyinstaller --onefile youtubeDownloader.py
+```
+3. The executable file will be in the ./dist folder after the conversion.
