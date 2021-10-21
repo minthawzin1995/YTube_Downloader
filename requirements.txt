@@ -1,7 +1,7 @@
 altgraph==0.17
 arrow==0.15.5
 asgiref==3.2.3
-Babel==2.8.0
+Babel==2.9.1
 beautifulsoup4==4.8.2
 bs4==0.0.1
 certifi==2019.11.28
